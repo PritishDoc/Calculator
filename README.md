@@ -69,9 +69,7 @@ We welcome contributions to improve the CalculatorApp! Here are some ways you ca
 - **Submit feature requests**: Have an idea for a new feature? Let us know by submitting a request.
 - **Contribute code**: Submit pull requests with improvements, bug fixes, or new features.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
