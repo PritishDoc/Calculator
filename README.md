@@ -10,7 +10,12 @@ Welcome to the **CalculatorApp** repository! This Java-based calculator applicat
 
 ## Getting Started
 
+### Prerequisites
 
+To run this application, you need to have the following installed on your system:
+
+- Java Development Kit (JDK) 8 or higher
+- JavaFX SDK
 
 ### Installation
 
