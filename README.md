@@ -1,6 +1,8 @@
 # CalculatorApp
 
 Welcome to the **CalculatorApp** repository! This Java-based calculator application provides a simple and interactive graphical user interface for basic arithmetic operations. The application leverages JavaFX for its GUI components and ensures an intuitive user experience.
+![alt text](<Screenshot 2024-07-01 214700.png>)
+![alt text](<Screenshot 2024-07-01 214640.png>)
 
 ## Features
 
